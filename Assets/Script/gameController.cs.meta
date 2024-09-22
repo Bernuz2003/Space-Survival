@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4953c88244ba56bf7a6d1c5218d6b83b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ostacolo: {fileID: 791201698150000050, guid: 19288dd27876d8234ba9874ed3e03b85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
